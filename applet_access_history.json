@@ -1,0 +1,26 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-10-04T08:52:34.891447Z",
+    "firstAccessTime": "2026-10-04T05:48:32.455046Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "aff4ba8e-cc3e-46e5-aeab-278a8beab3ee"
+      }
+    },
+    "name": "KRIVYA — The Ultimate Weight Loss Plan",
+    "description": "Personalized AI-powered nutrition, healthy lifestyle, exercise, portion control, sugar awareness, and wellness guidance built with safety and accessibility."
+  }, {
+    "lastAccessTime": "2026-10-04T05:47:12.628326Z",
+    "firstAccessTime": "2026-10-03T01:29:53.752954Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "c7deda42-b4aa-4e83-8779-1a971862455d"
+      }
+    },
+    "name": "KRIVYA AI",
+    "description": "Premium AI Video Generation Platform powered by Google Veo 3.1",
+    "runtimeType": 1
+  }]
+}
