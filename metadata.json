@@ -1,0 +1,10 @@
+{
+  "name": "KRIVYA — The Ultimate Weight Loss Plan",
+  "description": "Personalized AI-powered nutrition, healthy lifestyle, exercise, portion control, sugar awareness, and wellness guidance built with safety and accessibility.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
