@@ -178,9 +178,9 @@ initSeedAccounts();
 
 // Gemini GenAI Setup
 let aiClient: GoogleGenAI | null = null;
-if (process.env.GEMINI_API_KEY) {
+if (process.env.AQ.Ab8RN6Ik5MAjIBqKORrhblb_kdlhrLgMejZNUSs8rnC2mIdrlA) {
   aiClient = new GoogleGenAI({
-    apiKey: process.env.GEMINI_API_KEY,
+    apiKey: process.env.AQ.Ab8RN6Ik5MAjIBqKORrhblb_kdlhrLgMejZNUSs8rnC2mIdrlA,
     httpOptions: {
       headers: {
         'User-Agent': 'aistudio-build',
